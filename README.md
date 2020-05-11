@@ -7,11 +7,11 @@ _DE or DIE – митап, сделанный дата инженерами дл
 
 ## Прошедшие мероприятия
 
-- [DE or DIE #1](meetups/2020-02-27%20%5BMeetup%20%231%5D)  
+- [DE or DIE #1](meetups/2020-02-27%20%5BMeetup%20%231%5D//README.md)  
 Докладчики:
   - Николай Марков, Aligned Research Group.
   - Евгений Ермаков, Яндекс.Такси.
-- [DE or DIE #2](meetups/2020-05-04%20%5BMeetup%20%232%5D)  
+- [DE or DIE #2](meetups/2020-05-04%20%5BMeetup%20%232%5D/README.md)  
 Докладчики:  
   - Егор Матешук, Qvant.
   - Денис Хуртин, Яндекс.Маркет.
