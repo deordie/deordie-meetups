@@ -2,8 +2,6 @@
 
 _DE or DIE – митап, сделанный дата инженерами для дата инженеров._
 
-This repository contains meetup materials.
-
 Новые мероприятия: <https://deordie.timepad.ru/events/>  
 Присоединяйтесь к нам в Telegram: <https://t.me/deordie_chat>
 
@@ -13,7 +11,7 @@ This repository contains meetup materials.
 Докладчики:
   - Николай Марков, Aligned Research Group.
   - Евгений Ермаков, Яндекс.Такси.
-- [DE OR DIE #2](meetups/2020-05-04%20%5BMeetup%20%232%5D)  
+- [DE or DIE #2](meetups/2020-05-04%20%5BMeetup%20%232%5D)  
 Докладчики:  
   - Егор Матешук, Qvant.
   - Денис Хуртин, Яндекс.Маркет.
