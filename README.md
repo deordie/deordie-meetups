@@ -1,13 +1,24 @@
 # DE or DIE Meetups
 
-_DE or DIE meetup made by data engineers for data engineers. Currently in Russian._
+_DE or DIE – митап, сделанный дата инженерами для дата инженеров._
 
 This repository contains meetup materials.
 
-New events: <https://deordie.timepad.ru/events/>  
-Join us in Telegram: <https://t.me/deordie_chat>
+Новые мероприятия: <https://deordie.timepad.ru/events/>  
+Присоединяйтесь к нам в Telegram: <https://t.me/deordie_chat>
 
-## Our partners
+## Прошедшие мероприятия
+
+- [DE or DIE #1](meetups/2020-02-27%20%5BMeetup%20%231%5D)  
+Докладчики:
+  - Николай Марков, Aligned Research Group.
+  - Евгений Ермаков, Яндекс.Такси.
+- [DE OR DIE #2](meetups/2020-05-04%20%5BMeetup%20%232%5D)  
+Докладчики:  
+  - Егор Матешук, Qvant.
+  - Денис Хуртин, Яндекс.Маркет.
+
+## Наши партнеры
 
 [![dp_logo]][dp_link]&emsp;&emsp;[![nlp_logo]][nlp_link]
 
