@@ -10,7 +10,7 @@ _Автор: Николай Марков, Principal Architect, Aligned Research 
 
 Материалы первого доклада:
 
-- [Запись]() выступления на YouTube.
+- [Запись](https://youtu.be/GfBWzXxF5M8) выступления на YouTube.
 - [Презентация](Nikolay%20Markov%20-%20Data%20engineer.pdf) в формате PDF.
 
 #### О чем первый доклад
@@ -23,7 +23,7 @@ _Автор: Евгений Ермаков, к.т.н., архитектор Data
 
 Материалы второго доклада:
 
-- [Запись]() выступления на YouTube.
+- [Запись](https://youtu.be/AhRpHj_jneU) выступления на YouTube.
 - [Презентация](Evgeniy%20Ermakov%20-%20Yandex%20Taxi%20DMP.pdf) в формате PDF.
 
 #### О чем второй доклад
