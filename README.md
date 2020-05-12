@@ -3,7 +3,8 @@
 _DE or DIE – митап, сделанный дата инженерами для дата инженеров._
 
 Новые мероприятия: <https://deordie.timepad.ru/events/>  
-Присоединяйтесь к нам в Telegram: <https://t.me/deordie_chat>
+Присоединяйтесь к нам в Telegram: <https://t.me/deordie_chat>  
+Наши видео и трансляции доступны на нашем [канале на YouTube]().
 
 ## Прошедшие мероприятия
 
