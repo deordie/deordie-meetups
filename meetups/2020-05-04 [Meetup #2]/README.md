@@ -12,6 +12,7 @@ _Автор: Егор Матешук, Chief Data Officer, Qvant._
 
 - [Запись](https://youtu.be/Ac-XhNB0YrM) выступления на YouTube.
 - [Презентация](Egor%20Mateshuk%20-%20Lambda%20%26%20Kappa.pdf) в формате PDF.
+- [Демо](https://github.com/Gorini4/spark_lambda_kappa_example). Jupyter notebook с примерами кода.
 
 #### О чем первый доклад
 
