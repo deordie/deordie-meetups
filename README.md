@@ -1,4 +1,4 @@
-# <img src="images/logo.png" width="48" style="float: left; margin-right: 10px;"> DE or DIE Meetups
+# <img src="images/logo.png" width="64" style="float: left; margin-right: 10px;"> DE or DIE Meetups
 
 _DE or DIE – митап, сделанный дата инженерами для дата инженеров._
 
