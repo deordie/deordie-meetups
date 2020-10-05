@@ -32,7 +32,7 @@ _Автор: Андрей Вихров, Главный системный ана
 Материалы второго доклада:
 
 - [Запись](https://youtu.be/jm7OS4Q1WsI) выступления на YouTube.
-- [Презентация](Andrei%20Vikhrov%20–%20Data%20governance.pdf) в формате PDF.
+- [Презентация](Andrey%20Vikhrov%20–%20Data%20governance.pdf) в формате PDF.
 
 #### О чем второй доклад
 
