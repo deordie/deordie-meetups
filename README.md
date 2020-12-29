@@ -8,6 +8,11 @@ _DE or DIE – митап, сделанный дата инженерами дл
 
 ## Прошедшие мероприятия
 
+- [DE or DIE #5](meetups/05)  
+Докладчики:  
+  - Андрей Титов, Senior Spark Engineer, NVIDIA
+  - Дмитрий Шалин, Data Engineer, СБЕР.
+
 - [DE or DIE #4](meetups/04)  
 Докладчики:  
   - Артем Селезнев, Senior Data Engineer, Сбербанк.
