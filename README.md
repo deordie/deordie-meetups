@@ -47,5 +47,3 @@ _DE or DIE – митап, сделанный дата инженерами дл
 [jb_logo]: images/jetbrains_partner.png "JetBrains"
 [lm_link]: https://tech.leroymerlin.ru/ "Leroy Merlin"
 [lm_logo]: images/leroy_merlin_partner.png "Leroy Merlin"
-[nlp_link]: https://newprolab.com/ "New Professions Lab"
-[nlp_logo]: images/newprolab_partner.jpg "New Professions Lab"
