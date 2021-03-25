@@ -35,9 +35,17 @@ _DE or DIE – митап, сделанный дата инженерами дл
 
 ## Наши партнеры
 
-[![dp_logo]][dp_link]&emsp;&emsp;[![nlp_logo]][nlp_link]
+[![dp_logo]][dp_link]
+&emsp;&emsp;&emsp;
+[![jb_logo]][jb_link]
+&emsp;
+[![lm_logo]][lm_link]
 
 [dp_link]: https://dodopizza.dev/ "Dodo Pizza Engineering"
 [dp_logo]: images/dodopizza_partner.png "Dodo Pizza Engineering"
+[jb_link]: https://www.jetbrains.com/ "JetBrains"
+[jb_logo]: images/jetbrains_partner.png "JetBrains"
+[lm_link]: https://tech.leroymerlin.ru/ "Leroy Merlin"
+[lm_logo]: images/leroy_merlin_partner.png "Leroy Merlin"
 [nlp_link]: https://newprolab.com/ "New Professions Lab"
 [nlp_logo]: images/newprolab_partner.jpg "New Professions Lab"
