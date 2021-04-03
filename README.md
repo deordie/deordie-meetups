@@ -8,9 +8,14 @@ _DE or DIE – митап, сделанный дата инженерами дл
 
 ## Прошедшие мероприятия
 
+- [DE or DIE #6](meetups/06)  
+Докладчики:  
+  - Иван Трусов, Solutions Architect, Databricks.
+  - Паша Финкельштейн, Developer Advocate for Big Data, JetBrains.
+
 - [DE or DIE #5](meetups/05)  
 Докладчики:  
-  - Андрей Титов, Senior Spark Engineer, NVIDIA
+  - Андрей Титов, Senior Spark Engineer, NVIDIA.
   - Дмитрий Шалин, Data Engineer, СБЕР.
 
 - [DE or DIE #4](meetups/04)  
