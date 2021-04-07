@@ -1,4 +1,4 @@
-# <img src="images/logo.png" width="64" style="float: left; margin-right: 10px;"> DE or DIE Meetups
+# <img src="https://user-images.githubusercontent.com/408149/113920628-af5bbb80-97ed-11eb-91df-523cf5d27254.png" width="64" style="float: left; margin-right: 10px;"> DE or DIE Meetups
 
 _DE or DIE – митап, сделанный дата инженерами для дата инженеров._
 
@@ -40,8 +40,8 @@ _DE or DIE – митап, сделанный дата инженерами дл
 [![lm_logo]][lm_link]
 
 [dp_link]: https://dodopizza.dev/ "Dodo Pizza Engineering"
-[dp_logo]: images/dodopizza_partner.png "Dodo Pizza Engineering"
+[dp_logo]: https://user-images.githubusercontent.com/408149/113920289-407e6280-97ed-11eb-8de8-775148b9eca4.png "Dodo Pizza Engineering"
 [jb_link]: https://www.jetbrains.com/ "JetBrains"
-[jb_logo]: images/jetbrains_partner.png "JetBrains"
+[jb_logo]: https://user-images.githubusercontent.com/408149/113920485-81767700-97ed-11eb-8883-2096fc9873ed.png "JetBrains"
 [lm_link]: https://tech.leroymerlin.ru/ "Leroy Merlin"
-[lm_logo]: images/leroy_merlin_partner.png "Leroy Merlin"
+[lm_logo]: https://user-images.githubusercontent.com/408149/113920582-9fdc7280-97ed-11eb-87fe-14c693e953b0.png "Leroy Merlin"
