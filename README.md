@@ -4,7 +4,8 @@ _DE or DIE – митап, сделанный дата инженерами дл
 
 Новые мероприятия: <https://deordie.timepad.ru/events/>  
 Присоединяйтесь к нам в Telegram: <https://t.me/deordie_chat>  
-Видео и трансляции митапов доступны на нашем канале <https://www.youtube.com/c/deordie>.
+Видео и трансляции митапов доступны на нашем канале <https://www.youtube.com/c/deordie>  
+Twitter: https://twitter.com/_deordie
 
 __НОВЫЙ ПРОЕКТ: Data Engineering Digest__ — дайджест интересных материалов для дата инженеров <https://digest.deordie.org>
 
