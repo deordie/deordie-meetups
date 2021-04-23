@@ -6,6 +6,8 @@ _DE or DIE – митап, сделанный дата инженерами дл
 Присоединяйтесь к нам в Telegram: <https://t.me/deordie_chat>  
 Видео и трансляции митапов доступны на нашем канале <https://www.youtube.com/c/deordie>.
 
+__НОВЫЙ ПРОЕКТ: Data Engineering Digest__ — дайджест интересных материалов для дата инженеров <https://digest.deordie.org>
+
 ## Прошедшие мероприятия
 
 - [DE or DIE #6](meetups/06)  
