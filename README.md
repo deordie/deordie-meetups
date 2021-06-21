@@ -11,6 +11,11 @@ __НОВЫЙ ПРОЕКТ: Data Engineering Digest__ — дайджест инт
 
 ## Прошедшие мероприятия
 
+- [DE or DIE #7](meetups/07)  
+  - Дарья Буланова — Handling late data. How to make the right choice?
+  - Илья Тодор — Ingestion and historization in the Data Lake
+
+
 - [DE or DIE #6](meetups/06)  
   - Иван Трусов — Delta Lake — table format for large scale storage and analytics
   - Паша Финкельштейн — Love to Frankenstein’s monster: Kotlin for Apache Spark
