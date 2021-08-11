@@ -8,8 +8,8 @@ _DE or DIE – митап, сделанный дата инженерами дл
 Twitter: https://twitter.com/_deordie
 
 ## Наши проекты
-- __Data Engineering Digest__ — дайджест интересных материалов для дата инженеров <https://digest.deordie.org>
-- __Data Engineering Talks__ — подкаст, в котором мы обсуждаем интересные статьи из дайджеста и делимся своим опытом <https://talks.deordie.org>
+- __DE or DIE: Digest__ — дайджест интересных материалов для дата инженеров <https://digest.deordie.org>
+- __DE or DIE: Talks__ — подкаст, в котором мы обсуждаем интересные статьи из дайджеста и делимся своим опытом <https://talks.deordie.org>
 
 ## Прошедшие мероприятия
 
