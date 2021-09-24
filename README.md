@@ -46,12 +46,9 @@ Twitter: https://twitter.com/_deordie
 [![dp_logo]][dp_link]
 &emsp;&emsp;&emsp;
 [![jb_logo]][jb_link]
-&emsp;
-[![lm_logo]][lm_link]
+
 
 [dp_link]: https://dodopizza.dev/ "Dodo Pizza Engineering"
 [dp_logo]: https://user-images.githubusercontent.com/408149/113920289-407e6280-97ed-11eb-8de8-775148b9eca4.png "Dodo Pizza Engineering"
 [jb_link]: https://www.jetbrains.com/ "JetBrains"
 [jb_logo]: https://user-images.githubusercontent.com/408149/113920485-81767700-97ed-11eb-8883-2096fc9873ed.png "JetBrains"
-[lm_link]: https://tech.leroymerlin.ru/ "Leroy Merlin"
-[lm_logo]: https://user-images.githubusercontent.com/408149/113920582-9fdc7280-97ed-11eb-87fe-14c693e953b0.png "Leroy Merlin"
