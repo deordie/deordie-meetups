@@ -13,10 +13,13 @@ Twitter: https://twitter.com/_deordie
 
 ## Прошедшие мероприятия
 
+- [DE or DIE #8](meetups/08)  
+  - Арсений Бирюков — CI/CD для баз данных
+  - Бронислав Житников — NiFi. Как загрузить данные в Greenplum и не убить его
+
 - [DE or DIE #7](meetups/07)  
   - Дарья Буланова — Handling late data. How to make the right choice?
   - Илья Тодор — Ingestion and historization in the Data Lake
-
 
 - [DE or DIE #6](meetups/06)  
   - Иван Трусов — Delta Lake — table format for large scale storage and analytics
