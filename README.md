@@ -13,6 +13,9 @@ Twitter: https://twitter.com/_deordie
 
 ## Прошедшие мероприятия
 
+- [DE or DIE #9](meetups/09)  
+  - Ксения Томак, Дарья Буланова, Паша Финкельштейн, Никита Бочкарев, Михаил Кумачев — System Design Interview
+
 - [DE or DIE #8](meetups/08)  
   - Арсений Бирюков — CI/CD для баз данных
   - Бронислав Житников — NiFi. Как загрузить данные в Greenplum и не убить его
